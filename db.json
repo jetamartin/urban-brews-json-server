@@ -1,16 +1,97 @@
 {
-  "posts":[
+  "drinks": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": "martini",
+      "name": "Martini",
+      "description": "An ice-cold, refreshing classic.",
+      "recipe": "Mix 3 parts vodka & 1 part dry vermouth.",
+      "serve": "Serve very cold, straight up."
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": "A nice drink for a late night conversation.",
+      "recipe": "Mix equal parts of gin, Campari, and sweet vermouth.",
+      "serve": "Serve cold, either on the rocks or straight up."
+    },
+    {
+      "id": "gin-and-tonic",
+      "name": "Gin and Tonic",
+      "description": "Like regular tonic, but with gin.",
+      "recipe": "Mix 2 parts gin & 1 part tonic water.",
+      "serve": "Serve in a tall glass over ice, garnished with a lime wedge."
+    },
+    {
+      "id": "diet-coke",
+      "name": "Diet Coke",
+      "description": "Crisp!",
+      "recipe": "Open can.",
+      "serve": "Immediately."
+    },
+    {
+      "name": "Tequilla Sunrise",
+      "description": "A refreshing Orange Juice based drink with a kick",
+      "recipe": "Fresh Orange Juice and Voka with a sprig of fresh ment",
+      "serve": "Chilled over ice",
+      "id": "rSEJjqR"
     }
   ],
-  "comments" : [
+  "snacks": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "nachos",
+      "name": "Nachos",
+      "description": "An American classic!",
+      "recipe": "Cover expensive, organic tortilla chips with Cheez Whiz.",
+      "serve": "Serve in a hand-thrown ceramic bowl, garnished with canned black olives"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "description": "Sure to impress your vegan friends!",
+      "recipe": "Purchase one container of hummus.",
+      "serve": "Place unceremoniously on the table, along with pita bread."
+    },
+    {
+      "id": "arugula-and-walnut-salad",
+      "name": "Arugula and Walnut Salad",
+      "description": "Tart and delicious.",
+      "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
+      "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "name": "Potato Strips",
+      "description": "Fresh Idaho Potatoes grilled/broiled to perfectionl",
+      "recipe": "Idaho Potatoes, butter, onions",
+      "serve": "Fresh and hot",
+      "id": "rWMoiU9"
+    },
+    {
+      "name": "Stuffed peppers",
+      "description": "Green peppers stuffed with cheese and sausage.",
+      "recipe": "Green peppers, cheese, sausage, salt and pepper",
+      "serve": "Fresh and hot from the oven",
+      "id": "ktN3KSw"
+    },
+    {
+      "name": "Bananas Foster",
+      "description": "Bananas Foster is a dessert made from bananas and vanilla ice cream, with a sauce made from butter, brown sugar, cinnamon, dark rum, and banana liqueur. ",
+      "recipe": "butter, dark brown sugar, rum, vanilla extract, 3 bananas, peeled, chopped walnuts, vanilla icecream",
+      "serve": "Serve while bananas are hot and icecream is ice cold",
+      "id": "wxlGMLU"
+    },
+    {
+      "name": "Potato Chips",
+      "description": "Fried onion potato chips",
+      "recipe": "Cut them and fry them",
+      "serve": "With salt in a bowl and onion dip",
+      "id": "cKKBS_7"
+    },
+    {
+      "name": "Chimichangas",
+      "description": "Delicious and authentic Mexican Chimichangas",
+      "recipe": "Fried tortillias, spicey meat, cheese, tomato sauce and chiles",
+      "serve": "Grade cheese on top and serve hot",
+      "id": "qUshzx1"
     }
   ]
 }
